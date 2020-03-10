@@ -44,9 +44,11 @@ def process(driver, url, path):
     driver.get('https://' + url)
 
     if "question" in url:  # 点击 重排（适用于回答）
-        driver.find_element_by_xpath('//*[@id="root"]/div/div[2]/header/div[1]/ul/li[4]/a').click()
+        WebDriverWait(driver, 5, 0.5).until(lambda driver: driver.find_element_by_xpath('//a[text()="重排"]'))
+        driver.find_element_by_xpath('//a[text()="重排"]').click()
     elif "zhuanlan" in url:  # 点击 重新排版 （适用于专栏）
-        driver.find_element_by_xpath('//*[@id="root"]/div/main/div/div[1]/div[2]/div/div/div[2]/button[1]').click()
+        WebDriverWait(driver, 5, 0.5).until(lambda driver: driver.find_element_by_xpath('//button[text()="重新排版"]'))
+        driver.find_element_by_xpath('//button[text()="重新排版"]').click()
     else:
         return
 
