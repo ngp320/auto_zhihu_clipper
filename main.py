@@ -109,6 +109,4 @@ if __name__ == "__main__":
     for url in allUrl:
         process(driver, url, 3)     # 找不到排版 最多刷新三次
     driver.close()
-    shutil.copyfile("resource/newlink.txt", "resource/newlink "
-                    + time.strftime('%Y-%m-%d', time.localtime(int(round(time.time()*1000))/1000))
-                    + ".txt")
+    shutil.copyfile("resource/newlink.txt", "resource/last_time_newlink.txt")
