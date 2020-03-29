@@ -1,7 +1,8 @@
 # 前置条件
 1 chrome → Tampermonkey → 知乎重排for印象笔记  
 2 chrome 关闭 油猴 印象笔记 以外的插件.避免影响  
-3 需要手动 F12浏览器, 选中所有需要剪藏的链接, 右键, copy out html  
+3 需要手动 F12浏览器, 选中所有需要剪藏的链接, 右键, copy out html
+→ 3.1  此处可使用 my-ahk-scripts 里的 [!pro-启动后一直pgDn直到按下空格.ahk]
 4 用记事本>notepad++ (打开大文件文本迅速) 粘贴到link.txt  
 5 运行pre.py  
 6 删除多余链接(第一次纯手工, 第二次开始有保存的 last_time_newlink.txt)  
