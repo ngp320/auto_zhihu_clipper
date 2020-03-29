@@ -1,0 +1,9 @@
+2020-03-29 21:45:53,719 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "F:/0Code/auto_zhihu_clipper/main.py", line 68, in process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_xpath('//button[text()="保存剪藏"]'))  # 点击 保存剪藏
+  File "F:\0Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
