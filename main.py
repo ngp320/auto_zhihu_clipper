@@ -1,6 +1,7 @@
 # coding=utf-8
 import logging
 import logging.config
+import shutil
 import time
 import traceback
 
@@ -102,10 +103,12 @@ def process(driver, url, recursion):
     return 2
 
 
-
 if __name__ == "__main__":
     driver = init()
     allUrl = getAllUrl()
     for url in allUrl:
-        process(driver, url, 3) #找不到排版 最多刷新三次
+        process(driver, url, 3)     # 找不到排版 最多刷新三次
     driver.close()
+    shutil.copyfile("resource/newlink.txt", "resource/newlink "
+                    + time.strftime('%Y-%m-%d', time.localtime(int(round(time.time()*1000))/1000))
+                    + ".txt")
