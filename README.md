@@ -7,7 +7,8 @@
 5 运行pre.py  
 6 删除多余链接(第一次纯手工, 第二次开始有保存的 last_time_newlink.txt)  
 7 再运行 mian.py  
-  
+    
+    
 
 # 注意事项
 (个人原因)pycharm 运行的时候关闭 全局vpn（例如proxifier）  
