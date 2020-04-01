@@ -489,3 +489,20 @@ selenium.common.exceptions.TimeoutException: Message:
 2020-03-29 22:08:45,731 - root - INFO - 剪藏成功 : www.zhihu.com/question/362411100/answer/1067019773
 2020-03-29 22:08:51,986 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/75984696
 2020-03-29 22:08:58,418 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/38782314
+2020-04-02 02:36:06,673 - root - INFO - allUrl: ['www.zhihu.com/question/365621890/answer/1118536995', 'www.zhihu.com/question/354192752/answer/1053739158', 'www.zhihu.com/question/20696592/answer/1119115124', 'www.zhihu.com/question/26452022/answer/428604618', 'www.zhihu.com/question/354167071/answer/1115406084']......
+2020-04-02 02:37:21,020 - root - INFO - allUrl: ['www.zhihu.com/question/365621890/answer/1118536995', 'www.zhihu.com/question/354192752/answer/1053739158', 'www.zhihu.com/question/20696592/answer/1119115124', 'www.zhihu.com/question/26452022/answer/428604618', 'www.zhihu.com/question/354167071/answer/1115406084']......
+2020-04-02 02:37:28,430 - root - INFO - 剪藏成功 : www.zhihu.com/question/365621890/answer/1118536995
+2020-04-02 02:37:36,883 - root - INFO - 剪藏成功 : www.zhihu.com/question/354192752/answer/1053739158
+2020-04-02 02:37:43,562 - root - INFO - 剪藏成功 : www.zhihu.com/question/20696592/answer/1119115124
+2020-04-02 02:37:51,131 - root - INFO - 剪藏成功 : www.zhihu.com/question/26452022/answer/428604618
+2020-04-02 02:37:57,344 - root - INFO - 剪藏成功 : www.zhihu.com/question/354167071/answer/1115406084
+2020-04-02 02:38:09,530 - root - INFO - 剪藏成功 : www.zhihu.com/question/22316395/answer/100909780
+2020-04-02 02:38:16,088 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/21759861
+2020-04-02 02:38:25,041 - root - INFO - 剪藏成功 : www.zhihu.com/question/265812960/answer/811136182
+2020-04-02 02:38:33,058 - root - INFO - 剪藏成功 : www.zhihu.com/question/305441480/answer/565968871
+2020-04-02 02:38:40,536 - root - INFO - 剪藏成功 : www.zhihu.com/question/263953798/answer/446309133
+2020-04-02 02:38:47,672 - root - INFO - 剪藏成功 : www.zhihu.com/question/382911830/answer/1110860626
+2020-04-02 02:38:55,151 - root - INFO - 剪藏成功 : www.zhihu.com/question/382282941/answer/1108031312
+2020-04-02 02:39:01,128 - root - INFO - 剪藏成功 : www.zhihu.com/question/266262459/answer/306849806
+2020-04-02 02:39:07,656 - root - INFO - 剪藏成功 : www.zhihu.com/question/308899000/answer/759634995
+2020-04-02 02:39:15,165 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/120407386
