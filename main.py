@@ -11,7 +11,6 @@ from selenium import webdriver
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 
-
 def init():
     #调用config.yaml里的 logging配置
     with open('config.yaml', 'r', encoding='utf-8') as f:
@@ -29,7 +28,8 @@ def init():
 def getAllUrl():
     allUrl = []
     with open('./resource/newLink.txt', encoding='utf-8') as f:
-        for line in f:
+        lines = reversed(f.readlines())     #从最后一行, 开始读,这样剪藏的时间顺序对得上
+        for line in lines:
             if("zhuanlan" in line) | ("answer" in line):
                 allUrl.append(line.replace('\n', ''))
     logging.info('allUrl: ' + str(allUrl[0:5]) + "......")

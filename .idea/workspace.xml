@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/last_time_newlink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resource/last_time_newlink.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resource/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/newLink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resource/newLink.txt" afterDir="false" />
@@ -97,7 +98,9 @@
       <workItem from="1585488764632" duration="2493000" />
       <workItem from="1585493702620" duration="607000" />
       <workItem from="1585495065468" duration="730000" />
-      <workItem from="1585766063205" duration="699000" />
+      <workItem from="1585766063205" duration="725000" />
+      <workItem from="1585774274461" duration="659000" />
+      <workItem from="1586296385082" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary="2020-03-29 22:11:18 运行成功">
       <created>1585491090315</created>
@@ -155,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585495751979</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="更新">
+      <created>1585766771817</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585766771817</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,41 +178,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="109" y="0" key="CommitChangelistDialog2" timestamp="1585495750623">
+    <state x="109" y="0" key="CommitChangelistDialog2" timestamp="1585766769734">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="109" y="0" key="CommitChangelistDialog2/0.0.1463.783@0.0.1463.783" timestamp="1585495750623" />
-    <state width="963" height="186" key="GridCell.Tab.0.bottom" timestamp="1585766230014">
+    <state x="109" y="0" key="CommitChangelistDialog2/0.0.1463.783@0.0.1463.783" timestamp="1585766769734" />
+    <state width="964" height="186" key="GridCell.Tab.0.bottom" timestamp="1586297596251">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="963" height="186" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1585766230014" />
-    <state width="963" height="186" key="GridCell.Tab.0.center" timestamp="1585766230014">
+    <state width="964" height="186" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1586297596251" />
+    <state width="964" height="186" key="GridCell.Tab.0.center" timestamp="1586297596251">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="963" height="186" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1585766230014" />
-    <state width="963" height="186" key="GridCell.Tab.0.left" timestamp="1585766230014">
+    <state width="964" height="186" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1586297596251" />
+    <state width="964" height="186" key="GridCell.Tab.0.left" timestamp="1586297596250">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="963" height="186" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1585766230014" />
-    <state width="963" height="186" key="GridCell.Tab.0.right" timestamp="1585766230014">
+    <state width="964" height="186" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1586297596250" />
+    <state width="964" height="186" key="GridCell.Tab.0.right" timestamp="1586297596251">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="963" height="186" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1585766230014" />
+    <state width="964" height="186" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1586297596251" />
     <state x="5" y="36" key="SettingsEditor" timestamp="1585488830573">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="5" y="36" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1585488830573" />
-    <state x="96" y="127" key="Vcs.Push.Dialog.v2" timestamp="1585495753197">
+    <state x="96" y="127" key="Vcs.Push.Dialog.v2" timestamp="1585766774347">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="96" y="127" key="Vcs.Push.Dialog.v2/0.0.1463.783@0.0.1463.783" timestamp="1585495753197" />
-    <state x="829" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1585488765882">
+    <state x="96" y="127" key="Vcs.Push.Dialog.v2/0.0.1463.783@0.0.1463.783" timestamp="1585766774347" />
+    <state x="829" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1586296385459">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="829" y="218" key="com.intellij.ide.util.TipDialog/0.0.1463.783@0.0.1463.783" timestamp="1585488765881" />
+    <state x="829" y="218" key="com.intellij.ide.util.TipDialog/0.0.1463.783@0.0.1463.783" timestamp="1586296385459" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/auto_zhihu_clipper$pre.coverage" NAME="pre Coverage Results" MODIFIED="1585766129440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/auto_zhihu_clipper$main.coverage" NAME="main Coverage Results" MODIFIED="1585766230003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_zhihu_clipper$pre.coverage" NAME="pre Coverage Results" MODIFIED="1586296487786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_zhihu_clipper$main.coverage" NAME="main Coverage Results" MODIFIED="1586297596235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
