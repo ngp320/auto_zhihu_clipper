@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; → 3.1  此处可使用 my-ahk-scripts 里的 [!pro-启动后一直pgDn直到按下空格.ahk]  
 4 用记事本 >>> notepad++ (打开大文件文本迅速) 粘贴到link.txt  
 5 运行pre.py  
-6 删除多余链接(第一次纯手工, 第二次开始有保存的 last_time_newlink.txt)  
+6 删除多余链接(第一次纯手工, 第二次开始 可根据last_time_newlink.txt 或者 info.log看上一次剪藏到哪了)  
 7 再运行 mian.py  
     
     

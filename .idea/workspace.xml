@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bd670e5-6c6b-4e51-b0c3-965bfda02b67" name="Default Changelist" comment="">
+    <list default="true" id="5bd670e5-6c6b-4e51-b0c3-965bfda02b67" name="Default Changelist" comment="更新 微微修改一下">
+      <change beforePath="$PROJECT_DIR$/.idea/auto_zhihu_clipper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/auto_zhihu_clipper.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/errors.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/last_time_newlink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resource/last_time_newlink.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resource/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resource/newLink.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resource/newLink.txt" afterDir="false" />
@@ -24,17 +46,65 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\00Code\auto_zhihu_clipper\resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.给此文件夹内文件 添加后缀.jgp ">
+    <configuration name="给此文件夹内文件 添加后缀.jgp " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="auto_zhihu_clipper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/resource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resource/给此文件夹内文件 添加后缀.jgp .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="errorhandler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="auto_zhihu_clipper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evernote_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="auto_zhihu_clipper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="D:\00Code\auto_zhihu_clipper\evernote_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,20 +126,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="evernote_pre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="auto_zhihu_clipper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\00Code\auto_zhihu_clipper\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pre.py" />
+      <option name="SCRIPT_NAME" value="D:\00Code\auto_zhihu_clipper\evernote_pre.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,10 +148,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.给此文件夹内文件 添加后缀.jgp " />
+      <item itemvalue="Python.errorhandler" />
+      <item itemvalue="Python.evernote_main" />
+      <item itemvalue="Python.evernote_pre" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.pre" />
+        <item itemvalue="Python.给此文件夹内文件 添加后缀.jgp " />
+        <item itemvalue="Python.evernote_main" />
+        <item itemvalue="Python.errorhandler" />
+        <item itemvalue="Python.evernote_pre" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +178,9 @@
       <workItem from="1585495065468" duration="730000" />
       <workItem from="1585766063205" duration="725000" />
       <workItem from="1585774274461" duration="659000" />
-      <workItem from="1586296385082" duration="1102000" />
+      <workItem from="1586296385082" duration="1168000" />
+      <workItem from="1586567461653" duration="1395000" />
+      <workItem from="1587459227583" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="2020-03-29 22:11:18 运行成功">
       <created>1585491090315</created>
@@ -165,54 +245,119 @@
       <option name="project" value="LOCAL" />
       <updated>1585766771817</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="更新">
+      <created>1586297634892</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586297634892</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2020-03-29 22:11:18 运行成功" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="更新 微微修改一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 微微修改一下" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="109" y="0" key="CommitChangelistDialog2" timestamp="1585766769734">
+    <state x="601" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589865437894">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="601" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2293.920@0.0.2293.920" timestamp="1589865437894" />
+    <state x="904" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590068443088">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="904" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2293.920@0.0.2293.920" timestamp="1590068443088" />
+    <state x="846" y="52" key="#pre" timestamp="1589862404736">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="846" y="52" key="#pre/0.0.2293.920@0.0.2293.920" timestamp="1589862404736" />
+    <state x="109" y="0" key="CommitChangelistDialog2" timestamp="1586297632976">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="109" y="0" key="CommitChangelistDialog2/0.0.1463.783@0.0.1463.783" timestamp="1585766769734" />
-    <state width="964" height="186" key="GridCell.Tab.0.bottom" timestamp="1586297596251">
+    <state x="109" y="0" key="CommitChangelistDialog2/0.0.1463.783@0.0.1463.783" timestamp="1586297632976" />
+    <state x="0" y="60" key="DiffContextDialog" timestamp="1586297630134">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="964" height="186" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1586297596251" />
-    <state width="964" height="186" key="GridCell.Tab.0.center" timestamp="1586297596251">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state x="0" y="60" key="DiffContextDialog/0.0.1463.783@0.0.1463.783" timestamp="1586297630134" />
+    <state width="1364" height="281" key="GridCell.Tab.0.bottom" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
     </state>
-    <state width="964" height="186" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1586297596251" />
-    <state width="964" height="186" key="GridCell.Tab.0.left" timestamp="1586297596250">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state width="966" height="186" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1587460474604" />
+    <state width="1364" height="281" key="GridCell.Tab.0.bottom/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state width="1364" height="281" key="GridCell.Tab.0.center" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
     </state>
-    <state width="964" height="186" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1586297596250" />
-    <state width="964" height="186" key="GridCell.Tab.0.right" timestamp="1586297596251">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state width="966" height="186" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1587460474604" />
+    <state width="1364" height="281" key="GridCell.Tab.0.center/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state width="1364" height="281" key="GridCell.Tab.0.left" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
     </state>
-    <state width="964" height="186" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1586297596251" />
-    <state x="5" y="36" key="SettingsEditor" timestamp="1585488830573">
-      <screen x="0" y="0" width="1463" height="783" />
+    <state width="966" height="186" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1587460474604" />
+    <state width="1364" height="281" key="GridCell.Tab.0.left/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state width="1364" height="281" key="GridCell.Tab.0.right" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="966" height="186" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1587460474604" />
+    <state width="1364" height="281" key="GridCell.Tab.0.right/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state width="1364" height="281" key="GridCell.Tab.1.bottom" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1364" height="281" key="GridCell.Tab.1.bottom/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state width="1364" height="281" key="GridCell.Tab.1.center" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1364" height="281" key="GridCell.Tab.1.center/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state width="1364" height="281" key="GridCell.Tab.1.left" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1364" height="281" key="GridCell.Tab.1.left/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state width="1364" height="281" key="GridCell.Tab.1.right" timestamp="1590073025223">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1364" height="281" key="GridCell.Tab.1.right/0.0.2293.920@0.0.2293.920" timestamp="1590073025223" />
+    <state x="8" y="42" key="SettingsEditor" timestamp="1590073303953">
+      <screen x="0" y="0" width="2293" height="920" />
     </state>
     <state x="5" y="36" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1585488830573" />
-    <state x="96" y="127" key="Vcs.Push.Dialog.v2" timestamp="1585766774347">
+    <state x="8" y="42" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1590073303953" />
+    <state x="96" y="127" key="Vcs.Push.Dialog.v2" timestamp="1586297638503">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="96" y="127" key="Vcs.Push.Dialog.v2/0.0.1463.783@0.0.1463.783" timestamp="1585766774347" />
-    <state x="829" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1586296385459">
+    <state x="96" y="127" key="Vcs.Push.Dialog.v2/0.0.1463.783@0.0.1463.783" timestamp="1586297638503" />
+    <state width="700" height="440" key="XDebugger.FullValuePopup" timestamp="1589865020516">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="700" height="440" key="XDebugger.FullValuePopup/0.0.2293.920@0.0.2293.920" timestamp="1589865020516" />
+    <state x="829" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1587459227628">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="829" y="218" key="com.intellij.ide.util.TipDialog/0.0.1463.783@0.0.1463.783" timestamp="1586296385459" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/auto_zhihu_clipper$pre.coverage" NAME="pre Coverage Results" MODIFIED="1586296487786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/auto_zhihu_clipper$main.coverage" NAME="main Coverage Results" MODIFIED="1586297596235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <state x="829" y="218" key="com.intellij.ide.util.TipDialog/0.0.1463.783@0.0.1463.783" timestamp="1587459227628" />
+    <state x="1009" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590072918689">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1009" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2293.920@0.0.2293.920" timestamp="1590072918689" />
+    <state x="1311" y="75" width="603" height="804" key="find.popup" timestamp="1590071632242">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="1311" y="75" width="603" height="804" key="find.popup/0.0.2293.920@0.0.2293.920" timestamp="1590071632242" />
   </component>
 </project>

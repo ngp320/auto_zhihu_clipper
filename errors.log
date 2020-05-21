@@ -7,3 +7,52 @@ Traceback (most recent call last):
 selenium.common.exceptions.TimeoutException: Message: 
 
 
+2020-05-19 13:15:21,028 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/auto_zhihu_clipper/main.py", line 49, in process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content)) # 寻找重排
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:/00Code/auto_zhihu_clipper/main.py", line 49, in <lambda>
+    WebDriverWait(driver, 5, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content)) # 寻找重排
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-05-19 13:34:04,778 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/auto_zhihu_clipper/main.py", line 68, in process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_xpath('//button[text()="保存剪藏"]'))  # 点击 保存剪藏
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-05-19 13:59:39,796 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/auto_zhihu_clipper/main.py", line 68, in process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_xpath('//button[text()="保存剪藏"]'))  # 点击 保存剪藏
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-05-19 13:59:52,700 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/auto_zhihu_clipper/main.py", line 68, in process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_xpath('//button[text()="保存剪藏"]'))  # 点击 保存剪藏
+  File "D:\00Code\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
