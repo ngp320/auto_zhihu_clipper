@@ -856,3 +856,432 @@ selenium.common.exceptions.TimeoutException: Message:
 2020-05-19 14:03:59,570 - root - INFO - allUrl: ['www.zhihu.com/question/20262385/answer/244889567', 'zhuanlan.zhihu.com/p/141878322']......
 2020-05-19 14:04:05,602 - root - INFO - 剪藏成功 : www.zhihu.com/question/20262385/answer/244889567
 2020-05-19 14:04:10,850 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/141878322
+2020-06-18 00:35:01,469 - root - INFO - allUrl: ['www.zhihu.com/question/21982032/answer/34389304', 'www.zhihu.com/question/21855830/answer/101479873', 'www.zhihu.com/question/327874416/answer/1232377428', 'www.zhihu.com/question/270950654/answer/1233266389', 'www.zhihu.com/question/388249293/answer/1165423242']......
+2020-06-18 00:35:07,896 - root - INFO - 剪藏成功 : www.zhihu.com/question/21982032/answer/34389304
+2020-06-18 00:35:13,650 - root - INFO - 剪藏成功 : www.zhihu.com/question/21855830/answer/101479873
+2020-06-18 00:35:19,173 - root - INFO - 剪藏成功 : www.zhihu.com/question/327874416/answer/1232377428
+2020-06-18 00:35:25,535 - root - INFO - 剪藏成功 : www.zhihu.com/question/270950654/answer/1233266389
+2020-06-18 00:35:31,485 - root - INFO - 剪藏成功 : www.zhihu.com/question/388249293/answer/1165423242
+2020-06-18 00:36:54,484 - root - INFO - allUrl: ['www.zhihu.com/question/21982032/answer/34389304', 'www.zhihu.com/question/21855830/answer/101479873', 'www.zhihu.com/question/327874416/answer/1232377428', 'www.zhihu.com/question/270950654/answer/1233266389', 'www.zhihu.com/question/388249293/answer/1165423242']......
+2020-06-18 00:37:00,175 - root - INFO - 剪藏成功 : www.zhihu.com/question/21982032/answer/34389304
+2020-06-18 00:37:05,610 - root - INFO - 剪藏成功 : www.zhihu.com/question/21855830/answer/101479873
+2020-06-18 00:37:10,603 - root - INFO - 剪藏成功 : www.zhihu.com/question/327874416/answer/1232377428
+2020-06-18 00:37:16,727 - root - INFO - 剪藏成功 : www.zhihu.com/question/270950654/answer/1233266389
+2020-06-18 00:37:22,026 - root - INFO - 剪藏成功 : www.zhihu.com/question/388249293/answer/1165423242
+2020-06-18 00:37:27,318 - root - INFO - 剪藏成功 : www.zhihu.com/question/395129689/answer/1235675195
+2020-06-18 00:37:32,368 - root - INFO - 剪藏成功 : www.zhihu.com/question/392283171/answer/1237054002
+2020-06-18 00:37:38,432 - root - INFO - 剪藏成功 : www.zhihu.com/question/21720435/answer/1138590943
+2020-06-18 00:37:44,173 - root - INFO - 剪藏成功 : www.zhihu.com/question/395620173/answer/1235958143
+2020-06-18 00:37:49,065 - root - INFO - 剪藏成功 : www.zhihu.com/question/289793870/answer/594690739
+2020-06-18 00:37:53,931 - root - INFO - 剪藏成功 : www.zhihu.com/question/289793870/answer/619625447
+2020-06-18 00:37:59,087 - root - INFO - 剪藏成功 : www.zhihu.com/question/396633951/answer/1243465649
+2020-06-18 00:38:04,302 - root - INFO - 剪藏成功 : www.zhihu.com/question/396300738/answer/1241457597
+2020-06-18 00:38:10,817 - root - INFO - 剪藏成功 : www.zhihu.com/question/396300738/answer/1241792302
+2020-06-18 00:38:23,712 - root - INFO - 剪藏成功 : www.zhihu.com/question/264878159/answer/286411095
+2020-06-18 00:38:29,161 - root - INFO - 剪藏成功 : www.zhihu.com/question/397290358/answer/1245879285
+2020-06-18 00:38:35,811 - root - INFO - 剪藏成功 : www.zhihu.com/question/300650155/answer/1248539853
+2020-06-18 00:38:40,669 - root - INFO - 剪藏成功 : www.zhihu.com/question/35301537/answer/943381784
+2020-06-18 00:38:46,487 - root - INFO - 剪藏成功 : www.zhihu.com/question/50116816/answer/933052576
+2020-06-18 00:38:51,534 - root - INFO - 剪藏成功 : www.zhihu.com/question/345756916/answer/1249173726
+2020-06-18 00:38:57,060 - root - INFO - 剪藏成功 : www.zhihu.com/question/267341371/answer/1235521628
+2020-06-18 00:39:02,041 - root - INFO - 剪藏成功 : www.zhihu.com/question/397259118/answer/1248718717
+2020-06-18 00:39:07,490 - root - INFO - 剪藏成功 : www.zhihu.com/question/396559381/answer/1246524681
+2020-06-18 00:39:13,521 - root - INFO - 剪藏成功 : www.zhihu.com/question/62469372/answer/1246910842
+2020-06-18 00:39:18,631 - root - INFO - 剪藏成功 : www.zhihu.com/question/42088685/answer/1247106229
+2020-06-18 00:39:23,780 - root - INFO - 剪藏成功 : www.zhihu.com/question/367098893/answer/997247211
+2020-06-18 00:39:29,479 - root - INFO - 剪藏成功 : www.zhihu.com/question/398156746/answer/1254595249
+2020-06-18 00:39:34,521 - root - INFO - 剪藏成功 : www.zhihu.com/question/389958357/answer/1191597862
+2020-06-18 00:39:39,550 - root - INFO - 剪藏成功 : www.zhihu.com/question/29521104/answer/987425867
+2020-06-18 00:39:44,916 - root - INFO - 剪藏成功 : www.zhihu.com/question/361215171/answer/1254651262
+2020-06-18 00:39:50,274 - root - INFO - 剪藏成功 : www.zhihu.com/question/388686475/answer/1228289773
+2020-06-18 00:39:56,198 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/142102886
+2020-06-18 00:40:01,295 - root - INFO - 剪藏成功 : www.zhihu.com/question/21365411/answer/25061759
+2020-06-18 00:40:06,537 - root - INFO - 剪藏成功 : www.zhihu.com/question/398400852/answer/1260733875
+2020-06-18 00:40:11,650 - root - INFO - 剪藏成功 : www.zhihu.com/question/385732321/answer/1159224945
+2020-06-18 00:40:17,012 - root - INFO - 剪藏成功 : www.zhihu.com/question/325492808/answer/715679060
+2020-06-18 00:40:22,768 - root - INFO - 剪藏成功 : www.zhihu.com/question/313280045/answer/614396670
+2020-06-18 00:40:28,119 - root - INFO - 剪藏成功 : www.zhihu.com/question/316016111/answer/1256636605
+2020-06-18 00:40:33,512 - root - INFO - 剪藏成功 : www.zhihu.com/question/25002833/answer/158108028
+2020-06-18 00:40:39,745 - root - INFO - 剪藏成功 : www.zhihu.com/question/382601167/answer/1262802609
+2020-06-18 00:40:46,281 - root - INFO - 剪藏成功 : www.zhihu.com/question/399167918/answer/1262604673
+2020-06-18 00:40:51,521 - root - INFO - 剪藏成功 : www.zhihu.com/question/389238319/answer/1264047462
+2020-06-18 00:40:57,607 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/46469449
+2020-06-18 00:41:03,696 - root - INFO - 剪藏成功 : www.zhihu.com/question/20436327/answer/15133746
+2020-06-18 00:41:08,670 - root - INFO - 剪藏成功 : www.zhihu.com/question/274694399/answer/448362342
+2020-06-18 00:41:14,347 - root - INFO - 剪藏成功 : www.zhihu.com/question/28484672/answer/118343625
+2020-06-18 00:41:19,671 - root - INFO - 剪藏成功 : www.zhihu.com/question/392500780/answer/1267535361
+2020-06-18 00:41:24,724 - root - INFO - 剪藏成功 : www.zhihu.com/question/380561464/answer/1106831400
+2020-06-18 00:41:29,943 - root - INFO - 剪藏成功 : www.zhihu.com/question/398838816/answer/1269471587
+2020-06-18 00:41:35,296 - root - INFO - 剪藏成功 : www.zhihu.com/question/28430183/answer/737588808
+2020-06-18 00:41:40,938 - root - INFO - 剪藏成功 : www.zhihu.com/question/63938355/answer/666648275
+2020-06-18 00:41:45,857 - root - INFO - 剪藏成功 : www.zhihu.com/question/289955083/answer/791041537
+2020-06-18 00:41:50,752 - root - INFO - 剪藏成功 : www.zhihu.com/question/59695220/answer/1249789287
+2020-06-18 00:41:55,759 - root - INFO - 剪藏成功 : www.zhihu.com/question/276345317/answer/506510365
+2020-06-18 00:42:01,095 - root - INFO - 剪藏成功 : www.zhihu.com/question/27561122/answer/37408616
+2020-06-18 00:42:06,360 - root - INFO - 剪藏成功 : www.zhihu.com/question/52669736/answer/132217294
+2020-06-18 00:42:11,299 - root - INFO - 剪藏成功 : www.zhihu.com/question/66766801/answer/812394155
+2020-06-18 00:42:16,485 - root - INFO - 剪藏成功 : www.zhihu.com/question/356880082/answer/903159946
+2020-06-18 00:42:21,179 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/54922392
+2020-06-18 00:42:26,825 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/33376970
+2020-06-18 00:42:32,133 - root - INFO - 剪藏成功 : www.zhihu.com/question/315407196/answer/1088988121
+2020-06-18 00:42:37,035 - root - INFO - 剪藏成功 : www.zhihu.com/question/296366864/answer/1269090409
+2020-06-18 00:42:42,046 - root - INFO - 剪藏成功 : www.zhihu.com/question/20190381/answer/142268290
+2020-06-18 00:42:47,835 - root - INFO - 剪藏成功 : www.zhihu.com/question/307877933/answer/833495822
+2020-06-18 00:42:53,640 - root - INFO - 剪藏成功 : www.zhihu.com/question/24993974/answer/350918209
+2020-06-18 00:42:59,326 - root - INFO - 剪藏成功 : www.zhihu.com/question/389457315/answer/1169203886
+2020-06-18 00:43:04,470 - root - INFO - 剪藏成功 : www.zhihu.com/question/399291281/answer/1279195513
+2020-06-18 00:43:09,541 - root - INFO - 剪藏成功 : www.zhihu.com/question/22142326/answer/1227087575
+2020-06-18 00:43:14,577 - root - INFO - 剪藏成功 : www.zhihu.com/question/46518493/answer/102425440
+2020-06-18 00:43:19,480 - root - INFO - 剪藏成功 : www.zhihu.com/question/23233310/answer/47530975
+2020-06-18 00:43:24,648 - root - INFO - 剪藏成功 : www.zhihu.com/question/398786563/answer/1282062602
+2020-06-18 00:43:30,109 - root - INFO - 剪藏成功 : www.zhihu.com/question/400309064/answer/1284565775
+2020-06-18 00:43:35,274 - root - INFO - 剪藏成功 : www.zhihu.com/question/349165646/answer/1199464090
+2020-06-18 00:43:41,141 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/33707817
+2020-06-18 00:43:48,922 - root - INFO - 剪藏成功 : www.zhihu.com/question/396219395/answer/1241507387
+2020-06-18 00:43:58,079 - root - INFO - 剪藏成功 : www.zhihu.com/question/312070549/answer/1228119533
+2020-06-18 00:44:03,161 - root - INFO - 剪藏成功 : www.zhihu.com/question/397786863/answer/1278173994
+2020-06-18 00:44:09,200 - root - INFO - 剪藏成功 : www.zhihu.com/question/61950442/answer/1283939049
+2020-06-18 00:44:14,234 - root - INFO - 剪藏成功 : www.zhihu.com/question/61950442/answer/1283939049
+2020-06-18 00:44:19,441 - root - INFO - 剪藏成功 : www.zhihu.com/question/61950442/answer/1283939049
+2020-06-18 00:44:24,546 - root - INFO - 剪藏成功 : www.zhihu.com/question/363206673/answer/960567937
+2020-06-18 00:44:29,565 - root - INFO - 剪藏成功 : www.zhihu.com/question/363206673/answer/960567937
+2020-07-01 17:05:07,685 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 92, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 93, in <lambda>
+    '//a[text()="Evernote 中的视图"]'))
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: target frame detached
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:38:30,190 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:39:38,121 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:40:45,627 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:40:50,531 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 105, in <lambda>
+    '//a[text()="Evernote 中的视图"]'))
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:43:27,161 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 108, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:44:04,723 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 89, in zhihu_process
+    driver.execute_script(js)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: rs is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:44:08,814 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 89, in zhihu_process
+    driver.execute_script(js)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: rs is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:44:12,575 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 89, in zhihu_process
+    driver.execute_script(js)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: rs is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 18:00:06,104 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 85, in zhihu_process
+    driver.execute_script(jsClick)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: arr is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 18:00:12,296 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 85, in zhihu_process
+    driver.execute_script(jsClick)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: arr is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 18:32:50,396 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 81, in zhihu_process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_xpath('//button[text()="保存剪藏"]'))  # 点击 保存剪藏
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:38:33,569 - root - INFO - 剪藏成功 : www.zhihu.com/question/399753069/answer/1288653775
+2020-07-01 18:39:41,178 - root - INFO - 剪藏成功 : www.zhihu.com/question/399753069/answer/1288653775
+2020-07-01 18:39:46,329 - root - INFO - 剪藏成功 : www.zhihu.com/question/391374819/answer/1210014345
+2020-07-01 18:39:50,984 - root - INFO - 剪藏成功 : www.zhihu.com/question/394383878/answer/1233806843
+2020-07-01 18:39:55,677 - root - INFO - 剪藏成功 : www.zhihu.com/question/375648853/answer/1074138520
+2020-07-01 18:40:00,829 - root - INFO - 剪藏成功 : www.zhihu.com/question/360181611/answer/1193899680
+2020-07-01 18:40:05,862 - root - INFO - 剪藏成功 : www.zhihu.com/question/393805388/answer/1237741616
+2020-07-01 18:40:10,889 - root - INFO - 剪藏成功 : www.zhihu.com/question/382480234/answer/1227419034
+2020-07-01 18:40:16,395 - root - INFO - 剪藏成功 : www.zhihu.com/question/324630784/answer/819193647
+2020-07-01 18:40:22,029 - root - INFO - 剪藏成功 : www.zhihu.com/question/25743370/answer/74931001
+2020-07-01 18:40:26,946 - root - INFO - 剪藏成功 : www.zhihu.com/question/402098839/answer/1289825027
+2020-07-01 18:40:31,935 - root - INFO - 剪藏成功 : www.zhihu.com/question/351790709/answer/873116094
+2020-07-01 18:40:36,786 - root - INFO - 剪藏成功 : www.zhihu.com/question/65945152/answer/237219393
+2020-07-01 18:40:42,091 - root - INFO - 剪藏成功 : www.zhihu.com/question/356351510/answer/945352381
+2020-07-01 18:40:47,024 - root - INFO - 剪藏成功 : www.zhihu.com/question/33578621/answer/1253990040
+2020-07-01 18:41:55,475 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:42:01,452 - root - INFO - 剪藏成功 : www.zhihu.com/question/321199799/answer/779270361
+2020-07-01 18:42:06,864 - root - INFO - 剪藏成功 : www.zhihu.com/question/68611994/answer/298845862
+2020-07-01 18:42:12,310 - root - INFO - 剪藏成功 : www.zhihu.com/question/374244092/answer/1046877400
+2020-07-01 18:42:19,531 - root - INFO - 剪藏成功 : www.zhihu.com/question/19626618/answer/13706942
+2020-07-01 18:42:24,444 - root - INFO - 剪藏成功 : www.zhihu.com/question/58107076/answer/278901943
+2020-07-01 18:42:29,159 - root - INFO - 剪藏成功 : www.zhihu.com/question/263764281/answer/273224838
+2020-07-01 18:42:34,484 - root - INFO - 剪藏成功 : www.zhihu.com/question/20784287/answer/112722768
+2020-07-01 18:42:39,199 - root - INFO - 剪藏成功 : www.zhihu.com/question/20338058/answer/16190588
+2020-07-01 18:42:44,049 - root - INFO - 剪藏成功 : www.zhihu.com/question/30324008/answer/537516938
+2020-07-01 18:42:48,886 - root - INFO - 剪藏成功 : www.zhihu.com/question/341560726/answer/848746325
+2020-07-01 18:42:53,972 - root - INFO - 剪藏成功 : www.zhihu.com/question/398949025/answer/1278817541
+2020-07-01 18:42:59,007 - root - INFO - 剪藏成功 : www.zhihu.com/question/384679755/answer/1144580347
+2020-07-01 18:43:04,249 - root - INFO - 剪藏成功 : www.zhihu.com/question/345599216/answer/1285310229
+2020-07-01 18:43:09,086 - root - INFO - 剪藏成功 : www.zhihu.com/question/402191468/answer/1296835252
+2020-07-01 18:43:13,696 - root - INFO - 剪藏成功 : www.zhihu.com/question/370184646/answer/1008311599
+2020-07-01 18:43:18,499 - root - INFO - 剪藏成功 : www.zhihu.com/question/402277275/answer/1299159236
+2020-07-01 18:43:23,275 - root - INFO - 剪藏成功 : www.zhihu.com/question/379218495/answer/1298889873
+2020-07-01 18:43:28,490 - root - INFO - 剪藏成功 : www.zhihu.com/question/392944119/answer/1299945142
+2020-07-01 18:43:33,649 - root - INFO - 剪藏成功 : www.zhihu.com/question/308123617/answer/1247136733
+2020-07-01 18:43:38,712 - root - INFO - 剪藏成功 : www.zhihu.com/question/403264742/answer/1300689445
+2020-07-01 18:43:43,650 - root - INFO - 剪藏成功 : www.zhihu.com/question/38174624/answer/870834265
+2020-07-01 18:43:48,427 - root - INFO - 剪藏成功 : www.zhihu.com/question/20937881/answer/97393998
+2020-07-01 18:43:53,226 - root - INFO - 剪藏成功 : www.zhihu.com/question/402086068/answer/1302113743
+2020-07-01 18:43:57,956 - root - INFO - 剪藏成功 : www.zhihu.com/question/403422374/answer/1302769276
+2020-07-01 18:45:06,408 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:45:12,425 - root - INFO - 剪藏成功 : www.zhihu.com/question/24759230/answer/1069256986
+2020-07-01 18:45:17,150 - root - INFO - 剪藏成功 : www.zhihu.com/question/403422374/answer/1302855871
+2020-07-01 18:46:25,476 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:46:30,773 - root - INFO - 剪藏成功 : www.zhihu.com/question/58960606/answer/1044003596
+2020-07-01 18:47:39,358 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:48:47,935 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:48:53,605 - root - INFO - 剪藏成功 : www.zhihu.com/question/33274900/answer/114189621
+2020-07-01 18:48:58,590 - root - INFO - 剪藏成功 : www.zhihu.com/question/34978478/answer/1305289493
+2020-07-01 18:49:03,359 - root - INFO - 剪藏成功 : www.zhihu.com/question/393951598/answer/1218369966
+2020-07-01 18:49:08,178 - root - INFO - 剪藏成功 : www.zhihu.com/question/389551228/answer/1307652770
+2020-07-01 18:49:12,819 - root - INFO - 剪藏成功 : www.zhihu.com/question/402480681/answer/1299678441
+2020-07-01 18:49:17,344 - root - INFO - 剪藏成功 : www.zhihu.com/question/40821372/answer/113402037
+2020-07-01 18:49:22,204 - root - INFO - 剪藏成功 : www.zhihu.com/question/41164706/answer/110957332
+2020-07-01 18:54:01,474 - root - INFO - 剪藏成功 : www.zhihu.com/question/399753069/answer/1288653775
+2020-07-01 18:54:06,673 - root - INFO - 剪藏成功 : www.zhihu.com/question/391374819/answer/1210014345
+2020-07-01 18:54:11,437 - root - INFO - 剪藏成功 : www.zhihu.com/question/394383878/answer/1233806843
+2020-07-01 18:54:16,097 - root - INFO - 剪藏成功 : www.zhihu.com/question/375648853/answer/1074138520
+2020-07-01 18:54:21,099 - root - INFO - 剪藏成功 : www.zhihu.com/question/360181611/answer/1193899680
+2020-07-01 18:54:33,704 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 79, in zhihu_process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_id('evernoteClipperTools'))  # 显性等待元素 （程序每隔xx秒看以下条件是否满足，如果条件成立了，则执行下一步，否则继续等待，直到超过设置的最长时间，然后抛出TimeoutException）
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:54:38,844 - root - INFO - 剪藏成功 : www.zhihu.com/question/382480234/answer/1227419034
+2020-07-01 18:54:51,472 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 79, in zhihu_process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_id('evernoteClipperTools'))  # 显性等待元素 （程序每隔xx秒看以下条件是否满足，如果条件成立了，则执行下一步，否则继续等待，直到超过设置的最长时间，然后抛出TimeoutException）
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:54:57,623 - root - INFO - 剪藏成功 : www.zhihu.com/question/25743370/answer/74931001
+2020-07-01 18:55:02,737 - root - INFO - 剪藏成功 : www.zhihu.com/question/402098839/answer/1289825027
+2020-07-01 18:55:07,469 - root - INFO - 剪藏成功 : www.zhihu.com/question/351790709/answer/873116094
+2020-07-01 18:55:12,265 - root - INFO - 剪藏成功 : www.zhihu.com/question/65945152/answer/237219393
+2020-07-01 18:55:17,242 - root - INFO - 剪藏成功 : www.zhihu.com/question/356351510/answer/945352381
+2020-07-01 18:55:22,141 - root - INFO - 剪藏成功 : www.zhihu.com/question/33578621/answer/1253990040
+2020-07-01 18:55:27,651 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/55804099
+2020-07-01 18:55:33,010 - root - INFO - 剪藏成功 : www.zhihu.com/question/321199799/answer/779270361
+2020-07-01 18:55:38,358 - root - INFO - 剪藏成功 : www.zhihu.com/question/68611994/answer/298845862
+2020-07-01 18:55:43,933 - root - INFO - 剪藏成功 : www.zhihu.com/question/374244092/answer/1046877400
+2020-07-01 18:55:50,480 - root - INFO - 剪藏成功 : www.zhihu.com/question/19626618/answer/13706942
+2020-07-01 18:55:55,393 - root - INFO - 剪藏成功 : www.zhihu.com/question/58107076/answer/278901943
+2020-07-01 18:56:00,089 - root - INFO - 剪藏成功 : www.zhihu.com/question/263764281/answer/273224838
+2020-07-01 18:56:05,334 - root - INFO - 剪藏成功 : www.zhihu.com/question/20784287/answer/112722768
+2020-07-01 18:56:10,118 - root - INFO - 剪藏成功 : www.zhihu.com/question/20338058/answer/16190588
+2020-07-01 18:56:15,129 - root - INFO - 剪藏成功 : www.zhihu.com/question/30324008/answer/537516938
+2020-07-01 18:56:19,954 - root - INFO - 剪藏成功 : www.zhihu.com/question/341560726/answer/848746325
+2020-07-01 18:56:25,031 - root - INFO - 剪藏成功 : www.zhihu.com/question/398949025/answer/1278817541
+2020-07-01 18:56:30,222 - root - INFO - 剪藏成功 : www.zhihu.com/question/384679755/answer/1144580347
+2020-07-01 18:56:36,727 - root - INFO - 剪藏成功 : www.zhihu.com/question/345599216/answer/1285310229
+2020-07-01 18:56:41,708 - root - INFO - 剪藏成功 : www.zhihu.com/question/402191468/answer/1296835252
+2020-07-01 18:56:46,305 - root - INFO - 剪藏成功 : www.zhihu.com/question/370184646/answer/1008311599
+2020-07-01 18:56:51,252 - root - INFO - 剪藏成功 : www.zhihu.com/question/402277275/answer/1299159236
+2020-07-01 18:56:55,984 - root - INFO - 剪藏成功 : www.zhihu.com/question/379218495/answer/1298889873
+2020-07-01 18:57:01,887 - root - INFO - 剪藏成功 : www.zhihu.com/question/392944119/answer/1299945142
+2020-07-01 18:57:07,138 - root - INFO - 剪藏成功 : www.zhihu.com/question/308123617/answer/1247136733
+2020-07-01 18:57:12,114 - root - INFO - 剪藏成功 : www.zhihu.com/question/403264742/answer/1300689445
+2020-07-01 18:57:17,107 - root - INFO - 剪藏成功 : www.zhihu.com/question/38174624/answer/870834265
+2020-07-01 18:57:21,917 - root - INFO - 剪藏成功 : www.zhihu.com/question/20937881/answer/97393998
+2020-07-01 18:57:26,772 - root - INFO - 剪藏成功 : www.zhihu.com/question/402086068/answer/1302113743
+2020-07-01 18:57:31,591 - root - INFO - 剪藏成功 : www.zhihu.com/question/403422374/answer/1302769276
+2020-07-01 18:57:37,084 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/48191796
+2020-07-01 18:57:43,268 - root - INFO - 剪藏成功 : www.zhihu.com/question/24759230/answer/1069256986
+2020-07-01 18:57:47,986 - root - INFO - 剪藏成功 : www.zhihu.com/question/403422374/answer/1302855871
+2020-07-01 18:57:53,747 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/60334138
+2020-07-01 18:57:58,573 - root - INFO - 剪藏成功 : www.zhihu.com/question/58960606/answer/1044003596
+2020-07-01 18:58:05,021 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/51423893
+2020-07-01 18:58:10,268 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/21701526
+2020-07-01 18:58:15,396 - root - INFO - 剪藏成功 : www.zhihu.com/question/33274900/answer/114189621
+2020-07-01 18:58:20,268 - root - INFO - 剪藏成功 : www.zhihu.com/question/34978478/answer/1305289493
+2020-07-01 18:58:24,962 - root - INFO - 剪藏成功 : www.zhihu.com/question/393951598/answer/1218369966
+2020-07-01 18:58:29,577 - root - INFO - 剪藏成功 : www.zhihu.com/question/389551228/answer/1307652770
+2020-07-01 18:58:34,442 - root - INFO - 剪藏成功 : www.zhihu.com/question/402480681/answer/1299678441
+2020-07-01 18:58:39,294 - root - INFO - 剪藏成功 : www.zhihu.com/question/40821372/answer/113402037
+2020-07-01 18:58:44,423 - root - INFO - 剪藏成功 : www.zhihu.com/question/41164706/answer/110957332
+2020-07-01 18:58:50,854 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/37467638
+2020-07-01 18:58:56,219 - root - INFO - 剪藏成功 : www.zhihu.com/question/19576250/answer/12266869
+2020-07-01 18:59:01,455 - root - INFO - 剪藏成功 : www.zhihu.com/question/19791269/answer/12977794
+2020-07-01 18:59:06,519 - root - INFO - 剪藏成功 : www.zhihu.com/question/19589511/answer/12304681
+2020-07-01 18:59:11,589 - root - INFO - 剪藏成功 : www.zhihu.com/question/386970281/answer/1169993526
+2020-07-01 18:59:16,229 - root - INFO - 剪藏成功 : www.zhihu.com/question/388676196/answer/1291843435
+2020-07-01 18:59:20,992 - root - INFO - 剪藏成功 : www.zhihu.com/question/402574881/answer/1311789106
+2020-07-01 18:59:26,063 - root - INFO - 剪藏成功 : www.zhihu.com/question/49887429/answer/1311857088
+2020-07-01 18:59:31,019 - root - INFO - 剪藏成功 : www.zhihu.com/question/24806607/answer/1311859802
+2020-07-01 18:59:36,069 - root - INFO - 剪藏成功 : www.zhihu.com/question/29287203/answer/1311859910
+2020-07-01 18:59:40,875 - root - INFO - 剪藏成功 : www.zhihu.com/question/378354530/answer/1270505451
+2020-07-01 18:59:45,870 - root - INFO - 剪藏成功 : www.zhihu.com/question/402237444/answer/1312750310
+2020-07-01 18:59:51,670 - root - INFO - 剪藏成功 : www.zhihu.com/question/404034830/answer/1312792942
+2020-07-01 18:59:57,360 - root - INFO - 剪藏成功 : www.zhihu.com/question/386731905/answer/1312743814

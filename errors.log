@@ -56,3 +56,229 @@ Traceback (most recent call last):
 selenium.common.exceptions.TimeoutException: Message: 
 
 
+2020-07-01 17:05:07,685 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 92, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 93, in <lambda>
+    '//a[text()="Evernote 中的视图"]'))
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: target frame detached
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:38:30,190 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:39:38,121 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:40:45,627 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:40:50,531 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 104, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 105, in <lambda>
+    '//a[text()="Evernote 中的视图"]'))
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:43:27,161 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 108, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 17:44:04,723 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 89, in zhihu_process
+    driver.execute_script(js)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: rs is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:44:08,814 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 89, in zhihu_process
+    driver.execute_script(js)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: rs is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 17:44:12,575 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 89, in zhihu_process
+    driver.execute_script(js)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: rs is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 18:00:06,104 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 85, in zhihu_process
+    driver.execute_script(jsClick)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: arr is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 18:00:12,296 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 85, in zhihu_process
+    driver.execute_script(jsClick)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: arr is not defined
+  (Session info: chrome=81.0.4044.138)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-07-01 18:32:50,396 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 81, in zhihu_process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_xpath('//button[text()="保存剪藏"]'))  # 点击 保存剪藏
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:41:55,475 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:45:06,408 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:46:25,476 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:47:39,358 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:48:47,935 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 110, in zhihu_process
+    WebDriverWait(driver, 60, 0.5).until(lambda driver: driver.find_element_by_xpath(
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:54:33,704 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 79, in zhihu_process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_id('evernoteClipperTools'))  # 显性等待元素 （程序每隔xx秒看以下条件是否满足，如果条件成立了，则执行下一步，否则继续等待，直到超过设置的最长时间，然后抛出TimeoutException）
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2020-07-01 18:54:51,472 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 79, in zhihu_process
+    WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_id('evernoteClipperTools'))  # 显性等待元素 （程序每隔xx秒看以下条件是否满足，如果条件成立了，则执行下一步，否则继续等待，直到超过设置的最长时间，然后抛出TimeoutException）
+  File "D:\00Code\0-old\auto_zhihu_clipper\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+

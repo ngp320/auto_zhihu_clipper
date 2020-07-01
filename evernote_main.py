@@ -5,11 +5,9 @@ import shutil
 import time
 import traceback
 
-import requests
-from bs4 import BeautifulSoup
-
-import yaml
 from ahk import AHK
+import yaml
+
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -24,7 +22,7 @@ def init():
     option.add_argument("--user-data-dir=" + r"C:/Users/ngp/AppData/Local/Google/Chrome/User Data/")
     # driver = webdriver.Chrome(executable_path=".\drivers\chromedriver.exe")     # 打开chrome浏览器
     driver = webdriver.Chrome(executable_path=".\drivers\chromedriver.exe", chrome_options=option)  # 打开有插件的chrome浏览器
-    driver.maximize_window()
+    # driver.maximize_window()
     return driver
 
 
@@ -43,16 +41,17 @@ def getAllUrl():
 
 
 def zhihu_process(driver, url, recursion):
+
     # 打开网页
     driver.get('https://' + url)
-    # 点击 重排/开始重排
+
     if "question" in url:  # 点击 重排（适用于回答）
         xpath_content = '//a[text()="重排"]'
     elif "zhuanlan" in url:  # 点击 重新排版 （适用于专栏）
         xpath_content = '//button[text()="重新排版"]'
     driver.implicitly_wait(10)  # 隐性等待页面 #值得注意的是 隐性等待和显性等待的最长时间取两者之中的大者
     try:
-        WebDriverWait(driver, 20, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content)) # 寻找重排
+        WebDriverWait(driver, 20, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content))  # 寻找重排
     except TimeoutException:
         logging.error("TimeoutException 没有找到元素 : \n%s", traceback.format_exc())
         if recursion > 0:
@@ -63,7 +62,15 @@ def zhihu_process(driver, url, recursion):
     except Exception:
         logging.error('Exception : \n%s', traceback.format_exc())
         return
-    driver.find_element_by_xpath(xpath_content).click()     # 点击 重排/重新排版
+    # .click失效 换用js
+    # driver.find_element_by_xpath(xpath_content).click()     # 点击 重排/重新排版
+    if "question" in url:  # 点击 重排（适用于回答）
+        jsClick = "document.getElementsByClassName('Tabs-link AppHeader-TabsLink')[3].click();"
+        driver.execute_script(jsClick)
+    elif "zhuanlan" in url:  # 点击 重新排版 （适用于专栏）
+        jsClick = "document.getElementsByClassName('Button Button--blue')[0].click();"
+        driver.execute_script(jsClick)
+
     driver.find_element_by_tag_name('body').send_keys('`')  # 热键启动印象笔记剪藏
 
     # 点击开始剪藏
@@ -73,8 +80,16 @@ def zhihu_process(driver, url, recursion):
         driver.switch_to.frame("evernoteClipperTools")  #切换到 嵌入iframe代码
         WebDriverWait(driver, 5, 0.5).until(lambda driver:driver.find_element_by_xpath('//button[text()="保存剪藏"]'))  # 点击 保存剪藏
         time.sleep(1)
-        driver.find_element_by_xpath('//button[text()="保存剪藏"]').click()
+        # .click失效 换用ahk
+        # ahk.
+        # driver.find_element_by_xpath('//button[text()="保存剪藏"]').click()
+        # jsClick = "document.getElementsByClassName('saveButton variantB')[0].click();"
+        # driver.execute_script(jsClick)
         driver.switch_to.default_content()  # 切换到 主页代码
+
+        ahk = AHK()
+        ahk.find_windows_by_title("Google Chrome")
+        ahk.key_press("enter")
     except NoSuchElementException:  # 如果剪藏失败
         logging.error('NoSuchElementException 剪藏无法开始：', traceback.format_exc() + url)
         if recursion > 0:
@@ -110,8 +125,12 @@ def zhihu_process(driver, url, recursion):
 
 
 if __name__ == "__main__":
-    driver = init()
+
     allUrl = getAllUrl()
+
+    print("正在启动WebDriver...")
+    driver = init()
+    print("启动完毕... 开始剪藏...")
     for url in allUrl:
         zhihu_process(driver, url, 3)     # 找不到排版 最多刷新三次
     driver.close()
