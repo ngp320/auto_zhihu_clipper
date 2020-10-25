@@ -1,202 +1,209 @@
-www.zhihu.com/question/386731905/answer/1312743814
-一个从0开始学习理财的年轻人，有什么避坑的经验吗？
+www.zhihu.com/question/24502596/answer/34449220
+为什么说懒惰是程序员的第一美德？
 
-www.zhihu.com/question/404034830/answer/1312792942
-如何看待东莞「图书馆留言农民工」说读书对我生活实在的帮助很少，但是对自己的言行和看待社会产生很大影响？
+www.zhihu.com/question/357242639/answer/1143514082
+Java岗校招需要什么水平?
 
-www.zhihu.com/question/402237444/answer/1312750310
-你如何评价“一个男人30岁以后还在拼多多上买东西是可耻的”这句话？
+www.zhihu.com/question/356982241/answer/906830768
+中国的程序员数量是否已经饱和或者过剩？
 
-www.zhihu.com/question/378354530/answer/1270505451
-为什么全网都在推崇计算机、写代码，难道大学除了计算机专业其他专业真的一无是处吗?
+www.zhihu.com/question/356982241/answer/1541349170
+中国的程序员数量是否已经饱和或者过剩？
 
-www.zhihu.com/question/29287203/answer/1311859910
-大学生的电脑有哪些必装软件？
+www.zhihu.com/question/20446207/answer/16824034
+你在潜水的时候都有哪些经历？
 
-www.zhihu.com/question/24806607/answer/1311859802
-有哪些实用的电脑软件值得推荐？
+www.zhihu.com/question/19720322/answer/13692200
+如何在老板很着急的时候，跟他说“不可行”？
 
-www.zhihu.com/question/49887429/answer/1311857088
-买到一台新笔记本电脑之后要做些什么？
+www.zhihu.com/question/52552247/answer/131022297
+传统IT和互联网IT的技术差别在哪里，传统IT有哪些需求无法满足而导致新的互联网技术被发明？
 
-www.zhihu.com/question/402574881/answer/1311789106
-为什么总有人喜欢为资本家辩护？
+www.zhihu.com/question/47093611/answer/750307413
+2000年左右（1995-2005）的上海是什么样子的？
 
-www.zhihu.com/question/388676196/answer/1291843435
-为什么中国要严格控制枪械？
+www.zhihu.com/question/51543684/answer/152437493
+有哪些令你惊艳的一句话或诗句？
 
-www.zhihu.com/question/386970281/answer/1169993526
-为什么《让子弹飞》最近又火起来了？
+www.zhihu.com/question/66519221/answer/243516931
+腾讯开发微信花了多少钱？真的技术难度这么大吗？难点在哪里？
 
-www.zhihu.com/question/19589511/answer/12304681
-为什么金庸的作品能够不论男女老少，士农工商，一概通吃，影响力深远且经久不息？
+www.zhihu.com/question/323359308/answer/1254012815
+求推荐一些好的算法书？
 
-www.zhihu.com/question/19791269/answer/12977794
-为什么美国的漫画电影如此突出个人英雄主义，而其他地区的漫画则不多见？这有什么样的社会基础吗？
+www.zhihu.com/question/422708727/answer/1540421635
+如何评价电影《金刚川》？
 
-www.zhihu.com/question/19576250/answer/12266869
-我们应该教给孩子的最重要的东西是什么？如何给予呢？
+www.zhihu.com/question/26930016/answer/99243411
+如何理解Python装饰器？
 
-zhuanlan.zhihu.com/p/37467638
-卫哲：做事要有超配意识
+www.zhihu.com/question/25530011/answer/154635437
+在Java的异常处理机制中，什么时候应该抛出异常，什么时候捕获异常？
 
-www.zhihu.com/question/41164706/answer/110957332
-计算机考研有哪些值得推荐的院校？
+zhuanlan.zhihu.com/p/60852696
+selenium启动Chrome配置参数问题
 
-www.zhihu.com/question/40821372/answer/113402037
-考研如何学习计算机组成原理这门课？难道要死记硬背吗？感觉知识点太多了？
+www.zhihu.com/question/21020398/answer/693525746
+如何设置软件全局快捷键，冲突的话那边能看？
 
-www.zhihu.com/question/402480681/answer/1299678441
-下一个天坑会是哪个专业?
+www.zhihu.com/question/300735799/answer/1116645508
+有哪些软件堪称神器，却不为大众所知？
 
-www.zhihu.com/question/389551228/answer/1307652770
-为什么男生不喜欢优质的剩女？
+www.zhihu.com/question/39396451/answer/661694094
+5G网络能够代替wifi吗？
 
-www.zhihu.com/question/393951598/answer/1218369966
-为什么很多人什么都没了解过就跳出来说屌丝才用小米？
+www.zhihu.com/question/420237168/answer/1536255606
+洗碗机有必要购买吗？
 
-www.zhihu.com/question/34978478/answer/1305289493
-你们是什么时候意识到这个社会的不公平的？
+www.zhihu.com/question/411880899/answer/1526167744
+为什么美国作为发达国家，人民的科学素养应该很高，但是疫情中的表现却那么反智？
 
-www.zhihu.com/question/33274900/answer/114189621
-如何缓解焦虑情绪？
+www.zhihu.com/question/50212423/answer/250263597
+如何评价开源中国的码云？
 
-zhuanlan.zhihu.com/p/21701526
-送你一个新鼠标，艺益手把手教你换鼠标微动
+www.zhihu.com/question/53786382/answer/1533487577
+为什么中国总是花费巨资把基础设施修到贫困山区，而不是让村民从大山深处搬出来，同时保护山区的原始森林？
 
-zhuanlan.zhihu.com/p/51423893
-市售鼠标微动那么多，哪款值得买？
+www.zhihu.com/question/425663307/answer/1533514832
+现在的资本家太可恶了，活着努力奋斗就是为了被他们剥削的吗？
 
-www.zhihu.com/question/58960606/answer/1044003596
-如何让Chrome浏览器的滚动手感接近Edge？
+www.zhihu.com/question/425874513/answer/1532907351
+如何看待导演张策不再担任《朱一旦枯燥生活》的导演？对于双方来说，是双赢还是双输？
 
-zhuanlan.zhihu.com/p/60334138
-Linux生产环境上，最常用的一套“vim“技巧
+www.zhihu.com/question/275840940/answer/1530214847
+有什么事，是你踏上社会之后才知道的?
 
-www.zhihu.com/question/403422374/answer/1302855871
-既然程序员可以理解为机器语言的翻译官，为什么程序员大多是男性?
+zhuanlan.zhihu.com/p/214095363
+跪久了，就站不起来了
 
-www.zhihu.com/question/24759230/answer/1069256986
-汽车空气净化器有用吗?
+www.zhihu.com/question/34484174/answer/195180772
+有哪些你无法理解为什么别人做不到的事情？
 
-zhuanlan.zhihu.com/p/48191796
-幽门螺杆菌的最全科普，看完这篇文章你自己都会治疗了
+zhuanlan.zhihu.com/p/73163063
+Python学习笔记：19个pythonic编程习惯，让你的Python入门更优雅
 
-www.zhihu.com/question/403422374/answer/1302769276
-既然程序员可以理解为机器语言的翻译官，为什么程序员大多是男性?
+zhuanlan.zhihu.com/p/73001806
+Python基础系列讲解-自动控制windows桌面
 
-www.zhihu.com/question/402086068/answer/1302113743
-美国或者世界可以无视华为专利费和专利限制，然后继续使用华为专利吗？
+www.zhihu.com/question/65135442/answer/227840318
+软件复制成本几乎为0，为什么价格那么贵？
 
-www.zhihu.com/question/20937881/answer/97393998
-最适合程序猿使用的鼠标是什么？
+zhuanlan.zhihu.com/p/102176365
+掌握Shell编程，一篇就够了
 
-www.zhihu.com/question/38174624/answer/870834265
-动漫中有哪些不嘴炮不墨迹的男主角?
+www.zhihu.com/question/424569549/answer/1518585789
+大家都在抨击资本家，难道做生意和做企业真的是错误的吗？
 
-www.zhihu.com/question/403264742/answer/1300689445
-如何看待证监会运用北斗导航定位系统揭开獐子岛财务造假手段?
+www.zhihu.com/question/421181673/answer/1517533252
+如何看待现在的年轻人越来越不愿意去奋斗？
 
-www.zhihu.com/question/308123617/answer/1247136733
-什么样的男生叫猥琐？
+www.zhihu.com/question/423764018/answer/1514275200
+计算机学院的学生该怎样提高自己的编程能力？
 
-www.zhihu.com/question/392944119/answer/1299945142
-为什么小米能在市占率和用户忠诚度都不高的情况下依旧保持极高的网络热度？有什么值得其他厂商学习的？
+www.zhihu.com/question/382601167/answer/1515924986
+刚毕业想做程序员，推荐一下java学习路线？
 
-www.zhihu.com/question/379218495/answer/1298889873
-怎么向媳妇解释《三体》里的罗辑和章北海不是变态，而是天才？
+www.zhihu.com/question/423801471/answer/1506343685
+米哈游的这套模式，真的不值得其他厂商学习吗？
 
-www.zhihu.com/question/402277275/answer/1299159236
-网传复旦唐世平教授说：少沉迷中国历史，多了解世界文明？这一言论是否属实？你怎么看？
+www.zhihu.com/question/61293257/answer/1516021166
+你愿意为国捐躯吗？
 
-www.zhihu.com/question/370184646/answer/1008311599
-今年26岁了干了7年电工工资4000左右，结婚了4年刚要上孩子要孩子也没积蓄还有负债，想转行能干什么？
+zhuanlan.zhihu.com/p/256956393
+连RabbitMQ的5种核心消息模式都不懂，也敢说自己会用消息队列！
 
-www.zhihu.com/question/402191468/answer/1296835252
-大二计算机专业，可以做些什么提高专业技能？
+www.zhihu.com/question/408882434/answer/1513750892
+计算机的书籍动辄几百上千页，作为学生真的有必要啃这些大书吗？如果有必要，该如何提高效率的看书？
 
-www.zhihu.com/question/345599216/answer/1285310229
-如何评价马丁路德金这个人?
+www.zhihu.com/question/424427370/answer/1513298514
+为什么有男人至死都是少年，而不是女人至死是少女呢？
 
-www.zhihu.com/question/384679755/answer/1144580347
-cpu超频真的有必要吗？是降低使用寿命，还是带来更大的性能提升？
+www.zhihu.com/question/422796779/answer/1509151032
+人这一辈子，最不能透支是什么？
 
-www.zhihu.com/question/398949025/answer/1278817541
-为何太空探索技术公司（SpaceX）的航天技术短短几年就超过了中国？
+www.zhihu.com/question/342318692/answer/811018218
+消费主义是如何通过伪造文化来欺骗年轻人的？
 
-www.zhihu.com/question/341560726/answer/848746325
-作为程序员，是什么让你坚持不懈地学习？难道不累吗?
+www.zhihu.com/question/67948916/answer/1510507813
+自学编程和计算机科班出身的差别在哪里？
 
-www.zhihu.com/question/30324008/answer/537516938
-在机械键盘越来越平民价的时代，FILCO这么高的品牌溢价还合理吗？
+www.zhihu.com/question/399148081/answer/1288549578
+程序员的悲哀是什么？
 
-www.zhihu.com/question/20338058/answer/16190588
-学历史有什么用？
+www.zhihu.com/question/388653797/answer/1207792229
+2020年程序员是否过剩？
 
-www.zhihu.com/question/20784287/answer/112722768
-雌螳螂为何会吃掉交配中的雄螳螂？
+www.zhihu.com/question/270775351/answer/1510442609
+这两年怎么没人说全球变暖了？
 
-www.zhihu.com/question/263764281/answer/273224838
-在历史上有哪些在当时的人认为可以改变世界最终却没能改变世界的发明？
+www.zhihu.com/question/422331562/answer/1506741457
+如何看待举报违停获利这一行为?
 
-www.zhihu.com/question/58107076/answer/278901943
-真空中瞬间断开电感，会怎样？
+zhuanlan.zhihu.com/p/74288616
+30分钟学会Scrapy
 
-www.zhihu.com/question/19626618/answer/13706942
-中国造不出世界主流水平的汽车发动机吗？
+www.zhihu.com/question/421929945/answer/1506706404
+为啥很多人说「读史可以明智」，可我却啥也学不到？
 
-www.zhihu.com/question/374244092/answer/1046877400
-如果买了1，2楼和顶楼，有什么后患？
+www.zhihu.com/question/316634128/answer/1451543013
+为什么民国黄金10年的时候不大力发展重工业？当时很困难吗？
 
-www.zhihu.com/question/68611994/answer/298845862
-在做程序员的道路上，你掌握了什么概念或技术使你感觉自我提升突飞猛进？
+www.zhihu.com/question/325514450/answer/1505455616
+当别人跟你吐槽工作和生活的时候，她更想听你的安慰和附和还是你的分析和建议？
 
-www.zhihu.com/question/321199799/answer/779270361
-在中国程序员工作是青春饭吗？
+www.zhihu.com/question/55720139/answer/676174347
+新手如何入门pytorch？
 
-zhuanlan.zhihu.com/p/55804099
-书魔的学习方法-1:读书的飞轮
+www.zhihu.com/question/66130724/answer/245801642
+自己做一个机械键盘需要准备哪些工具。？
 
-www.zhihu.com/question/33578621/answer/1253990040
-高级程序员和普通程序员有哪些区别？
+zhuanlan.zhihu.com/p/28496097
+全网最详细的低成本机械键盘DIY经验
 
-www.zhihu.com/question/356351510/answer/945352381
-你的编程能力从什么时候开始突飞猛进？
+zhuanlan.zhihu.com/p/66790602
+面试官:“谈谈Spring中都用到了那些设计模式?”。
 
-www.zhihu.com/question/65945152/answer/237219393
-19届毕业生，java后台还是机器学习？
+www.zhihu.com/question/344637747/answer/1501911464
+作为一个过来人，你会给一个普通二本大学的大一新生什么建议？
 
-www.zhihu.com/question/351790709/answer/873116094
-学大数据开发，java和python都需要学吗？
+www.zhihu.com/question/268736076/answer/396654041
+一个人的哪种行为让你觉得这个人值得深交？
 
-www.zhihu.com/question/402098839/answer/1289825027
-如何看待湖南城管当街打死「不牵绳」宠物狗，狗主人称「狗是自己跑出去的」？
+www.zhihu.com/question/420935657/answer/1472705270
+因琐事争端把男友论文及资料全删了，有挽回办法吗？怎么才能让男友消气？
 
-www.zhihu.com/question/25743370/answer/74931001
-如果房间隔音效果不好有什么方法可以解决？
+www.zhihu.com/question/58570383/answer/1499411817
+讲真，应届生一般工资多少啊？
 
-www.zhihu.com/question/324630784/answer/819193647
-35岁转行IT可行吗？
+www.zhihu.com/question/420646128/answer/1471660198
+为什么蔚来的车主好像都被洗脑了？
 
-www.zhihu.com/question/382480234/answer/1227419034
-马云在中国活得更滋润吗？
+www.zhihu.com/question/420646128/answer/1472523374
+为什么蔚来的车主好像都被洗脑了？
 
-www.zhihu.com/question/393805388/answer/1237741616
-如果知道自己将贫困一生，你还愿意生孩子吗?
+www.zhihu.com/question/65976332/answer/856492546
+微信如何一天加个1000好友？
 
-www.zhihu.com/question/360181611/answer/1193899680
-为什么知乎都在说房价要降，但是刚需买房的，看着房价还是一直在涨？
+www.zhihu.com/question/269353941/answer/348665789
+没有工作经验怎么找Java方面工作？
 
-www.zhihu.com/question/375648853/answer/1074138520
-90年前后出生的男性是否成熟？
+www.zhihu.com/question/415625154/answer/1492605360
+小公司出来的程序员找工作难吗？
 
-www.zhihu.com/question/394383878/answer/1233806843
-有哪些与资本家作斗争的可行的具体方法？
+www.zhihu.com/question/415625154/answer/1452008051
+小公司出来的程序员找工作难吗？
 
-www.zhihu.com/question/391374819/answer/1210014345
-那些大老板（资本家）是如何看待《资本论》的？
+www.zhihu.com/question/415625154/answer/1492110579
+小公司出来的程序员找工作难吗？
 
-www.zhihu.com/question/399753069/answer/1288653775
-如果是安那其主义者（Anarchists）建立了苏联，那要怎样才能抵抗纳粹的进攻？
+www.zhihu.com/question/422513071/answer/1495506110
+如何看待上海2020应届生落户新政？
 
+www.zhihu.com/question/423301982/answer/1498752445
+如何看待英国教育部课纲内，要求学校禁止使用曾公开表态反对资本主义的机构出版的材料？
 
+www.zhihu.com/question/297591947/answer/508389856
+是不是开惯了电动汽车就再也不愿开燃油车了，为什么？
+
+zhuanlan.zhihu.com/p/258404691
+阿里云的无影会不会对电脑行业以及云桌面行业带来巨大的颠覆？

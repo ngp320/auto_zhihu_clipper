@@ -5,7 +5,7 @@ import shutil
 import time
 import traceback
 
-from ahk import AHK
+from selenium.webdriver.common.keys import Keys
 import yaml
 
 from selenium import webdriver
@@ -87,9 +87,11 @@ def zhihu_process(driver, url, recursion):
         # driver.execute_script(jsClick)
         driver.switch_to.default_content()  # 切换到 主页代码
 
-        ahk = AHK()
-        ahk.find_windows_by_title("Google Chrome")
-        ahk.key_press("enter")
+        body = driver.find_element_by_xpath("//body")
+        body.send_keys(Keys.ENTER)
+        # ahk = AHK()
+        # ahk.find_windows_by_title("Google Chrome")
+        # ahk.key_press("enter")
     except NoSuchElementException:  # 如果剪藏失败
         logging.error('NoSuchElementException 剪藏无法开始：', traceback.format_exc() + url)
         if recursion > 0:
