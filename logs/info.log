@@ -51,3 +51,60 @@ from unknown error: web view not found
 2020-11-02 08:05:36,549 - root - INFO - 剪藏成功 : www.zhihu.com/question/391640177/answer/1552673744
 2020-11-02 08:05:43,096 - root - INFO - 剪藏成功 : www.zhihu.com/question/399073243/answer/1263251450
 2020-11-02 08:05:49,739 - root - INFO - 剪藏成功 : www.zhihu.com/question/299770052/answer/517396695
+2020-11-02 08:36:03,001 - root - INFO - 剪藏失败，倒数第3次尝试
+2020-11-02 08:36:29,289 - root - INFO - 剪藏失败，倒数第2次尝试
+2020-11-02 08:36:44,375 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 84, in zhihu_process
+    Xpath_wait_click_or_input(driver, '//div[text()="整个网页"]')
+  File "D:\00Code\0-old\auto_zhihu_clipper\utils\utils.py", line 27, in Xpath_wait_click_or_input
+    driver.find_element_by_xpath(xpath).click()
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()="整个网页"]"}
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 84, in zhihu_process
+    Xpath_wait_click_or_input(driver, '//div[text()="整个网页"]')
+  File "D:\00Code\0-old\auto_zhihu_clipper\utils\utils.py", line 27, in Xpath_wait_click_or_input
+    driver.find_element_by_xpath(xpath).click()
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()="整个网页"]"}
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 82, in zhihu_process
+    driver.switch_to.frame("evernoteClipperTools")  # 切换到 嵌入iframe代码
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 89, in frame
+    self._driver.execute(Command.SWITCH_TO_FRAME, {'id': frame_reference})
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchFrameException: Message: no such frame
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+

@@ -12,7 +12,7 @@ from selenium import webdriver
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 
-from utils.utils import wait_to_visible, Xpath_wait_click_or_input, xpathGetText
+from utils.utils import wait_to_visible, Xpath_wait_click_or_input, xpathGetText, randomSleep
 
 
 def init():
@@ -78,11 +78,11 @@ def zhihu_process(driver, url, recursion):
     driver.implicitly_wait(10)  # 隐性等待页面 #值得注意的是 隐性等待和显性等待的最长时间取两者之中的大者
     try:  # 尝试剪藏是否正常
         wait_to_visible(driver, '//*[@id="evernoteClipperTools"]')
-        time.sleep(1)
+        randomSleep()
         driver.switch_to.frame("evernoteClipperTools")  # 切换到 嵌入iframe代码
-        time.sleep(1)
-        Xpath_wait_click_or_input(driver, '//div[text()="整个网页"]')
-        time.sleep(1)
+        randomSleep()
+        Xpath_wait_click_or_input(driver, '//div[@class="ClipperContainer"]//div[text()="整个页面"]')
+        randomSleep()
         noteName = xpathGetText(driver,'//div[@class="ClipperContainer"]//div[@class="itemTitle"]')
         if noteName.startswith('z知乎'):
             pass
@@ -90,7 +90,7 @@ def zhihu_process(driver, url, recursion):
             # 没有在这个分类就划入这个分类
             Xpath_wait_click_or_input(driver, '//div[@class="selectorCaretIcon"]')
             Xpath_wait_click_or_input(driver, '//div[@class="children"]//div[contains(@class, "withoutCollapse") and @title="z知乎"]')
-        time.sleep(1)
+        randomSleep()
 
         Xpath_wait_click_or_input(driver, '//button[text()="保存剪藏"]')
         # .click失效 换用ahk
@@ -100,8 +100,10 @@ def zhihu_process(driver, url, recursion):
         # driver.execute_script(jsClick)
         driver.switch_to.default_content()  # 切换到 主页代码
 
-        body = driver.find_element_by_xpath("//body")
-        body.send_keys(Keys.ENTER)
+        # 通过代码 完善了 切换iframe... 那么selenium的热键enter也注释掉, 可以备用.
+        # body = driver.find_element_by_xpath("//body")
+        # body.send_keys(Keys.ENTER)
+
         # ahk = AHK()
         # ahk.find_windows_by_title("Google Chrome")
         # ahk.key_press("enter")
