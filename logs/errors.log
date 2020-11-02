@@ -1,0 +1,22 @@
+2020-11-02 04:47:11,748 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 54, in zhihu_process
+    WebDriverWait(driver, 20, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content))  # 寻找重排
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 54, in <lambda>
+    WebDriverWait(driver, 20, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content))  # 寻找重排
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+

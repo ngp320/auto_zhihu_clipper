@@ -133,6 +133,8 @@ if __name__ == "__main__":
     print("正在启动WebDriver...")
     driver = init()
     print("启动完毕... 开始剪藏...")
+    print("\t请先 使用印象笔记 剪藏一次 整个网页(设置好 剪藏使用上一次的配置) \n"
+          "\t并开启chrome扩展的Prog模式, 尽量关闭 油猴+印象笔记 以外的插件, 以免相互影响")
     for url in allUrl:
         zhihu_process(driver, url, 3)     # 找不到排版 最多刷新三次
     driver.close()

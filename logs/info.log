@@ -1,0 +1,53 @@
+2020-11-02 04:47:10,457 - root - INFO - 剪藏成功 : www.zhihu.com/question/267403723/answer/1520053322
+2020-11-02 04:47:11,748 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 54, in zhihu_process
+    WebDriverWait(driver, 20, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content))  # 寻找重排
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 54, in <lambda>
+    WebDriverWait(driver, 20, 0.5).until(lambda driver: driver.find_element_by_xpath(xpath_content))  # 寻找重排
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-11-02 04:48:16,110 - root - INFO - 剪藏成功 : www.zhihu.com/question/267403723/answer/1520053322
+2020-11-02 04:48:22,768 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/38920173
+2020-11-02 04:48:29,991 - root - INFO - 剪藏成功 : www.zhihu.com/question/422708727/answer/1543281227
+2020-11-02 04:48:38,925 - root - INFO - 剪藏成功 : www.zhihu.com/question/426625184/answer/1542963065
+2020-11-02 04:48:45,829 - root - INFO - 剪藏成功 : www.zhihu.com/question/425726667/answer/1531780075
+2020-11-02 08:03:18,233 - root - INFO - 剪藏成功 : www.zhihu.com/question/267403723/answer/1520053322
+2020-11-02 08:03:24,024 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/38920173
+2020-11-02 08:03:31,588 - root - INFO - 剪藏成功 : www.zhihu.com/question/422708727/answer/1543281227
+2020-11-02 08:03:38,907 - root - INFO - 剪藏成功 : www.zhihu.com/question/426625184/answer/1542963065
+2020-11-02 08:03:46,077 - root - INFO - 剪藏成功 : www.zhihu.com/question/425726667/answer/1531780075
+2020-11-02 08:03:52,527 - root - INFO - 剪藏成功 : www.zhihu.com/question/305042684/answer/550196442
+2020-11-02 08:03:58,507 - root - INFO - 剪藏成功 : www.zhihu.com/question/268742981/answer/341770209
+2020-11-02 08:04:04,429 - root - INFO - 剪藏成功 : www.zhihu.com/question/319893135/answer/1534967719
+2020-11-02 08:04:09,701 - root - INFO - 剪藏成功 : www.zhihu.com/question/370830450/answer/1010322452
+2020-11-02 08:04:15,537 - root - INFO - 剪藏成功 : www.zhihu.com/question/324088998/answer/685110542
+2020-11-02 08:04:21,796 - root - INFO - 剪藏成功 : www.zhihu.com/question/352329405/answer/906222243
+2020-11-02 08:04:27,574 - root - INFO - 剪藏成功 : www.zhihu.com/question/344856665/answer/816270460
+2020-11-02 08:04:32,947 - root - INFO - 剪藏成功 : www.zhihu.com/question/324192038/answer/725819629
+2020-11-02 08:04:40,012 - root - INFO - 剪藏成功 : www.zhihu.com/question/423764018/answer/1531024183
+2020-11-02 08:04:45,649 - root - INFO - 剪藏成功 : www.zhihu.com/question/60864080/answer/1537415856
+2020-11-02 08:04:53,373 - root - INFO - 剪藏成功 : www.zhihu.com/question/263445600/answer/1517787142
+2020-11-02 08:04:59,022 - root - INFO - 剪藏成功 : www.zhihu.com/question/27809894/answer/38176372
+2020-11-02 08:05:04,510 - root - INFO - 剪藏成功 : www.zhihu.com/question/22390561/answer/1544645502
+2020-11-02 08:05:09,929 - root - INFO - 剪藏成功 : www.zhihu.com/question/427814921/answer/1551158619
+2020-11-02 08:05:17,523 - root - INFO - 剪藏成功 : www.zhihu.com/question/63161708/answer/1233184078
+2020-11-02 08:05:23,992 - root - INFO - 剪藏成功 : www.zhihu.com/question/374908419/answer/1541066187
+2020-11-02 08:05:30,021 - root - INFO - 剪藏成功 : www.zhihu.com/question/269062863/answer/349007152
+2020-11-02 08:05:36,549 - root - INFO - 剪藏成功 : www.zhihu.com/question/391640177/answer/1552673744
+2020-11-02 08:05:43,096 - root - INFO - 剪藏成功 : www.zhihu.com/question/399073243/answer/1263251450
+2020-11-02 08:05:49,739 - root - INFO - 剪藏成功 : www.zhihu.com/question/299770052/answer/517396695
