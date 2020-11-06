@@ -66,7 +66,7 @@ def zhihu_process(driver, url, recursion):
     # .click失效 换用js
     # driver.find_element_by_xpath(xpath_content).click()     # 点击 重排/重新排版
     if "question" in url:  # 点击 重排（适用于回答）
-        jsClick = "document.getElementsByClassName('Tabs-link AppHeader-TabsLink')[3].click();"
+        jsClick = "document.getElementsByClassName('Tabs-link AppHeader-TabsLink')[4].click();"
         driver.execute_script(jsClick)
     elif "zhuanlan" in url:  # 点击 重新排版 （适用于专栏）
         jsClick = "document.getElementsByClassName('Button Button--blue')[0].click();"

@@ -162,3 +162,8 @@ selenium.common.exceptions.WebDriverException: Message: target frame detached
   (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
 
 
+2020-11-06 21:57:25,870 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/109888290
+2020-11-06 21:57:36,956 - root - INFO - 剪藏成功 : www.zhihu.com/question/371353951/answer/1243869785
+2020-11-06 22:00:04,541 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/109888290
+2020-11-06 22:00:54,419 - root - INFO - 剪藏成功 : www.zhihu.com/question/371353951/answer/1243869785
+2020-11-06 22:02:38,933 - root - INFO - 剪藏成功 : zhuanlan.zhihu.com/p/109888290
