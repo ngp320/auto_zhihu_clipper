@@ -81,18 +81,23 @@ def zhihu_process(driver, url, recursion):
         randomSleep()
         driver.switch_to.frame("evernoteClipperTools")  # 切换到 嵌入iframe代码
         randomSleep()
-        Xpath_wait_click_or_input(driver, '//div[@class="ClipperContainer"]//div[text()="整个页面"]')
-        randomSleep()
+        # Xpath_wait_click_or_input(driver, '//div[@class="ClipperContainer"]//div[text()="整个页面"]')
+        # randomSleep()
         noteName = xpathGetText(driver,'//div[@class="ClipperContainer"]//div[@class="itemTitle"]')
-        if noteName.startswith('z知乎'):
-            pass
-        else:
-            # 没有在这个分类就划入这个分类
-            Xpath_wait_click_or_input(driver, '//div[@class="selectorCaretIcon"]')
-            Xpath_wait_click_or_input(driver, '//div[@class="children"]//div[contains(@class, "withoutCollapse") and @title="z知乎"]')
-        randomSleep()
+        # print(noteName)
+        if not noteName.startswith('z知乎'):
+            raise SystemExit("请把 剪藏存储文件夹设为 z知乎后继续")
 
-        Xpath_wait_click_or_input(driver, '//button[text()="保存剪藏"]')
+        # 有时点击会无效 =.=
+        # if noteName.startswith('z知乎'):
+        #     pass
+        # else:
+        #     # 没有在这个分类就划入这个分类
+        #     Xpath_wait_click_or_input(driver, '//div[@class="selectorCaretIcon"]')
+        #     Xpath_wait_click_or_input(driver, '//div[@class="children"]//div[contains(@class, "withoutCollapse") and @title="z知乎"]')
+        # randomSleep()
+        #
+        # Xpath_wait_click_or_input(driver, '//button[text()="保存剪藏"]')
         # .click失效 换用ahk
         # ahk.
         # driver.find_element_by_xpath('//button[text()="保存剪藏"]').click()
@@ -101,8 +106,8 @@ def zhihu_process(driver, url, recursion):
         driver.switch_to.default_content()  # 切换到 主页代码
 
         # 通过代码 完善了 切换iframe... 那么selenium的热键enter也注释掉, 可以备用.
-        # body = driver.find_element_by_xpath("//body")
-        # body.send_keys(Keys.ENTER)
+        body = driver.find_element_by_xpath("//body")
+        body.send_keys(Keys.ENTER)
 
         # ahk = AHK()
         # ahk.find_windows_by_title("Google Chrome")
@@ -147,7 +152,7 @@ if __name__ == "__main__":
     driver = init()
     print("启动完毕... 开始剪藏...")
     print("\t请先 确定知乎 没有 (1条消息)...\n"
-          "\t并开启chrome扩展的Prog模式, 尽量关闭 油猴+印象笔记 以外的插件, 以免相互影响\n")
+          "\t并开启chrome扩展的 zhihu-clipper模式, 尽量关闭 油猴+印象笔记 以外的插件, 以免相互影响\n")
     input("\t输入任意值开始:")
     for url in allUrl:
         zhihu_process(driver, url, 3)  # 找不到排版 最多刷新三次

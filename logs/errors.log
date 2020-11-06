@@ -75,3 +75,57 @@ selenium.common.exceptions.NoSuchFrameException: Message: no such frame
   (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
 
 
+2020-11-06 21:35:53,448 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 92, in zhihu_process
+    Xpath_wait_click_or_input(driver, '//div[@class="children"]//div[contains(@class, "withoutCollapse") and @title="z知乎"]')
+  File "D:\00Code\0-old\auto_zhihu_clipper\utils\utils.py", line 25, in Xpath_wait_click_or_input
+    wait_to_visible(driver, xpath)
+  File "D:\00Code\0-old\auto_zhihu_clipper\utils\utils.py", line 14, in wait_to_visible
+    ui.WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.XPATH, Xpath)))
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: target frame detached
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+
+2020-11-06 21:36:32,594 - root - ERROR - Exception : 
+Traceback (most recent call last):
+  File "D:/00Code/0-old/auto_zhihu_clipper/evernote_main.py", line 92, in zhihu_process
+    Xpath_wait_click_or_input(driver, '//div[@class="children"]//div[contains(@class, "withoutCollapse") and @title="z知乎"]')
+  File "D:\00Code\0-old\auto_zhihu_clipper\utils\utils.py", line 25, in Xpath_wait_click_or_input
+    wait_to_visible(driver, xpath)
+  File "D:\00Code\0-old\auto_zhihu_clipper\utils\utils.py", line 14, in wait_to_visible
+    ui.WebDriverWait(driver, timeout).until(EC.visibility_of_element_located((By.XPATH, Xpath)))
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ngp\Anaconda3\envs\auto_zhihu_clipper\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: target frame detached
+  (Session info: chrome=85.0.4183.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+

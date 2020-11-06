@@ -1,74 +1,71 @@
-www.zhihu.com/question/299770052/answer/517396695
-为什么健身这么难坚持下去？
+www.zhihu.com/question/384009192/answer/1145803928
+受新冠肺炎疫情影响，在目前国际关系和全球格局中，中国可能面临哪些潜在的危机？
 
-www.zhihu.com/question/399073243/answer/1263251450
-没有人觉得原本的陈芊芊很可怜吗？
+zhuanlan.zhihu.com/p/275794432
+借着马云的事儿，谈谈钱和风险
 
-www.zhihu.com/question/391640177/answer/1552673744
-如何看待公知的没落？是否说明我国爱国主义教育的成功？
+www.zhihu.com/question/299497028/answer/1424992928
+怎么在不经意间把男票撩到腿软？
 
-www.zhihu.com/question/269062863/answer/349007152
-Java如何编写业务层的代码？
+www.zhihu.com/question/338619342/answer/1560353956
+为什么部分发达国家的治安会比中国差很多？
 
-www.zhihu.com/question/374908419/answer/1541066187
-如何评价中国在这次疫情中的表现?
+www.zhihu.com/question/388676196/answer/1555325380
+为什么中国要严格控制枪械？
 
-www.zhihu.com/question/63161708/answer/1233184078
-父母想让我接种hpv疫苗但我有过性生活怎么办？
+zhuanlan.zhihu.com/p/53975333
+漫画：什么是跳表？
 
-www.zhihu.com/question/427814921/answer/1551158619
-如何看待越来越多年轻人追捧「摸鱼哲学」，拒绝努力的年轻人真比老一辈活得更通透吗？
+www.zhihu.com/question/395620173/answer/1235138647
+如果华为被打倒了，对我们有什么影响？
 
-www.zhihu.com/question/22390561/answer/1544645502
-设计模式是不是有点太「玄」了？
+www.zhihu.com/question/26580300/answer/1558855700
+如何正确高效地使用LeetCode？
 
-www.zhihu.com/question/27809894/answer/38176372
-计算机行业还能火几年？
+www.zhihu.com/question/273381026/answer/401749412
+有没有新一点的SSM项目教程？
 
-www.zhihu.com/question/263445600/answer/1517787142
-计算机专业的学生怎样练习编程才能把编程学精通啊？
+www.zhihu.com/question/22764869/answer/31277656
+Java分布式应用如何入门以及有哪些资料？
 
-www.zhihu.com/question/60864080/answer/1537415856
-有哪些看似聪明，实则很傻的行为？
+www.zhihu.com/question/22779450/answer/1056501882
+怎样通过自己的努力进入到高级阶层？
 
-www.zhihu.com/question/423764018/answer/1531024183
-计算机学院的学生该怎样提高自己的编程能力？
+www.zhihu.com/question/428662705/answer/1557791208
+如何看待上交所决定暂缓蚂蚁集团科创板上市？小贷新规将如何影响蚂蚁估值？
 
-www.zhihu.com/question/324192038/answer/725819629
-java初学者需不需要立马学习使用ide?
+zhuanlan.zhihu.com/p/25982242
+微波炉竟然能做这些美味，你准没想到
 
-www.zhihu.com/question/344856665/answer/816270460
-优化代码中大量的if/else，你有什么方案?
+www.zhihu.com/question/58474365/answer/1418249612
+进了小公司的应届程序员如何翻身进入大公司？
 
-www.zhihu.com/question/352329405/answer/906222243
-作为程序员，我们应该更关注代码质量还是只需要以完成功能就好了？
+zhuanlan.zhihu.com/p/54102723
+漫画：什么是B+树？
 
-www.zhihu.com/question/324088998/answer/685110542
-程序员为什么加班多,是什么原因导致的？
+www.zhihu.com/question/377760627/answer/1082181045
+使用38W的紫外线消毒灯，放在卧室消毒，门窗都关了。人在客厅可以吗？
 
-www.zhihu.com/question/370830450/answer/1010322452
-golang为什么将method写在类外?
+www.zhihu.com/question/427434420/answer/1554392638
+已经工作的程序员在写什么样的代码？
 
-www.zhihu.com/question/319893135/answer/1534967719
-程序员是技术重要，还是处事重要？
+www.zhihu.com/question/422796779/answer/1556088398
+人这一辈子，最不能透支是什么？
 
-www.zhihu.com/question/268742981/answer/341770209
-关于J2EE和Spring目前到底是怎样的关系，以及未来这两者的发展是怎样的，是否存在竞争市场的情况？
+www.zhihu.com/question/20788378/answer/245509703
+为什么中国的部分神仙不像西方的吸血鬼一样对永生感到乏味呢？
 
-www.zhihu.com/question/305042684/answer/550196442
-怎么从本质上理解面向对象的编程思想？
+www.zhihu.com/question/427067248/answer/1553997943
+就是来问一下，大家加班最晚是到什么时间？
 
-www.zhihu.com/question/425726667/answer/1531780075
-传统的try-catch异常处理是否是编程语言发展中的弯路？
+www.zhihu.com/question/414070736/answer/1555738830
+中国为何要在这个时候提倡节约粮食？粮食到底够不够？
 
-www.zhihu.com/question/426625184/answer/1542963065
-日本倾倒核废水，为何没有引起国际社会的大力反对？
+www.zhihu.com/question/277234022/answer/1555251967
+为什么JAVA会比C语言使用的多？
 
-www.zhihu.com/question/422708727/answer/1543281227
-如何评价电影《金刚川》？
+www.zhihu.com/question/371353951/answer/1243869785
+作为2020年的应届生，你们现在的心态都是怎么样的?
 
-zhuanlan.zhihu.com/p/38920173
-编程语言和技术栈杂谈
-
-www.zhihu.com/question/267403723/answer/1520053322
-自学java，学多久可以自己找到工作？
+zhuanlan.zhihu.com/p/109888290
+从int取值范围谈起
