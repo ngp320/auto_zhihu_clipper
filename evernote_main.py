@@ -86,8 +86,10 @@ def zhihu_process(driver, url, recursion):
         noteName = xpathGetText(driver,'//div[@class="ClipperContainer"]//div[@class="itemTitle"]')
         # print(noteName)
         if not noteName.startswith('z知乎'):
-            raise SystemExit("请把 剪藏存储文件夹设为 z知乎后继续")
-
+            raise SystemExit("请把 剪藏存储文件夹设为 z知乎 后重试")
+        modeName = xpathGetText(driver, '//div[contains(@class,"checkIcon check")]/../..')
+        if not modeName.startswith('整个页面'):
+            raise SystemExit("请把 剪藏模式设为 整个页面 后重试")
         # 有时点击会无效 =.=
         # if noteName.startswith('z知乎'):
         #     pass
@@ -152,10 +154,10 @@ if __name__ == "__main__":
     driver = init()
     print("启动完毕... 开始剪藏...")
     print("\t请先 确定知乎 没有 (1条消息)...\n"
-          "\t并开启chrome扩展的 zhihu-clipper模式, 尽量关闭 油猴+印象笔记 以外的插件, 以免相互影响\n")
-    input("\t输入任意值开始:")
+          "\t并开启chrome扩展的 zhihu-clipper模式, 尽量关闭 油猴+印象笔记 以外的插件, 以免相互影响\n"
+          "\t并确认 印象笔记 调到了 整个页面+剪藏到z知乎文件夹(有代码检测, 不是这个程序会停止运行)\n")
     for url in allUrl:
         zhihu_process(driver, url, 3)  # 找不到排版 最多刷新三次
-    driver.close()
+    driver.quit()
 
     shutil.copyfile("resource/newlink.txt", "resource/last_time_newlink.txt")
